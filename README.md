@@ -1,4 +1,4 @@
-# 🌟 3D Card Slider
+# 3D Card Slider
 
 A visually stunning **3D image slider** built with just **HTML and CSS** — no JavaScript required
 
@@ -9,7 +9,7 @@ A visually stunning **3D image slider** built with just **HTML and CSS** — no 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [View Demo](https://unknown122-coder.github.io/3D-Card-Slider/)  
 
