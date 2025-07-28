@@ -11,10 +11,7 @@ A visually stunning **3D image slider** built with just **HTML and CSS** — no 
 
 ## 🚀 Live Demo
 
-🔗 [View Demo](https://yourusername.github.io/3D-Card-Slider/)  
-*(Replace `yourusername` with your actual GitHub username)*
+🔗 [View Demo](https://unknown122-coder.github.io/3D-Card-Slider/)  
 
----
 
-## 📂 Folder Structure
 
